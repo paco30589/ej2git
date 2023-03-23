@@ -1,5 +1,7 @@
 esta es la primera prueba del curso git
 
-a ver como sale
+a ver como sale esta vez
 
-espero que bien
+espero que bien o mejor
+
+inicio bien
